@@ -1,0 +1,78 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNowText-Bold
+FamilyName:Helvetica Now Text 
+StyleName:Bold
+FullName:HelveticaNowText-Bold
+MenuName:HelveticaNowText Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\MSFS SDK\DeltaSim-C17-Docs\c17dOCS Folder\Document fonts\HelveticaNowText-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:126036
+FileModTime:1555953312
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNowText-Bold
+NameArray:0,Win,1,HelveticaNowText Bold
+NameArray:0,Win,16,Helvetica Now Text 
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNowText-Medium
+FamilyName:Helvetica Now Text 
+StyleName:Medium
+FullName:HelveticaNowText-Medium
+MenuName:HelveticaNowText Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\MSFS SDK\DeltaSim-C17-Docs\c17dOCS Folder\Document fonts\HelveticaNowText-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:126740
+FileModTime:1555953320
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNowText-Medium
+NameArray:0,Win,1,HelveticaNowText Medium
+NameArray:0,Win,16,Helvetica Now Text 
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNowText-Regular
+FamilyName:Helvetica Now Text 
+StyleName:Regular
+FullName:HelveticaNowText-Regular
+MenuName:HelveticaNowText Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\MSFS SDK\DeltaSim-C17-Docs\c17dOCS Folder\Document fonts\HelveticaNowText-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:126076
+FileModTime:1555953318
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaNowText-Regular
+NameArray:0,Win,1,HelveticaNowText Regular
+NameArray:0,Win,16,Helvetica Now Text 
+%EndFont
+
